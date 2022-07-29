@@ -1,4 +1,4 @@
-<p align='center'>
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=3776AB&height=300&section=header&reversal=true&text=knuksg&fontColor=000000&fontSize=150&desc=Hello%20word!&descAlign=31&descAlignY=31)
 
@@ -25,3 +25,5 @@
 >#### 목표: 위풍당당한 재롱이([@jrong.__](https://www.instagram.com/jrong.__/))처럼 살아가기.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknuksg%2Fhit-counter&count_bg=%2399B5FF&title_bg=%23555555&icon=python.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
