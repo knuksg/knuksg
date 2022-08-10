@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=3776AB&height=300&section=header&reversal=true&text=knuksg&fontColor=000000&fontSize=150&desc=Hello%20word!&descAlign=31&descAlignY=31)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&reversal=true&text=knuksg&fontColor=000000&fontSize=150&desc=Hello%20world!&descAlign=32&descAlignY=31)
 
 ### Technologies and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
