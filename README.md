@@ -5,6 +5,8 @@
 ### Technologies and tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -16,9 +18,21 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=knuksg/)](https://solved.ac/knuksg/)
 
+22/07/13 백준 문제풀이 시작
+
+22/07/26 실버 5 티어 달성
+
+22/08/16 골드 5 티어 달성
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knuksg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
+
+2018/12 ~ 2019/01 Winter Academic Exchange Student in Hiroshima City University, Hiroshima, Japan
+
+2019/03 ~ 2020/02 Exchange Student in Kansai University,  Osaka,  Japan
+
+2022/07 ~ 				Studying Fullstack Coding Course in Samsung Multicampus
 
 <a href="https://www.instagram.com/950l2l/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
